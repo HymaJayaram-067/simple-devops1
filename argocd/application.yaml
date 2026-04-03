@@ -6,8 +6,8 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/YOUR_USERNAME/simple-devops.git
-    targetRevision: main
+    repoURL: https://github.com/HymaJayaram-067/simple-devops.git
+    targetRevision: feature-code
     path: k8s/
   destination:
     server: https://kubernetes.default.svc
